@@ -1,8 +1,7 @@
+@import "tailwindcss";
+
+
 body {
-  background-color: #9ca3af;
+  background-color: #fafafa;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
