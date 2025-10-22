@@ -1,7 +1,6 @@
 import { Navbar } from "../../components/Navbar";
 import { Fragment } from "react/jsx-runtime";
 import { Sidebar } from "../../components/Sidebar";
-import { type } from "@testing-library/user-event/dist/type";
 import { NotesCard } from "../../components/NotesCard";
 import { useNotes } from "../../context/notes.context";
 
