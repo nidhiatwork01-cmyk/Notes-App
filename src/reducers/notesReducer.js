@@ -1,4 +1,4 @@
-import { type } from "@testing-library/user-event/dist/type";
+
 import { v4 as uuid } from "uuid";
 
 export const notesReducer = (state, { type, payload }) => {
